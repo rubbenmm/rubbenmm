@@ -42,13 +42,13 @@
 <h3 align="left">Tools:</h3>
 <p aling= "left">
 <!-- UNITY -->
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>  
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/unity/original.svg" alt="unity" width="40" height="40"/>  
 <!-- GIT -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="40" height="40"/>
 <!-- BLENDER -->
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/blender/original.svg" alt="blender" width="40" height="40"/>
 <!-- PHOTOSHOP -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/photoshop/plain.svg" alt="photoshop" width="40" height="40"/> 
 <!-- ILLUSTRATOR -->
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/illustrator/plain.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p> 
