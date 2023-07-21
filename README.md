@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A passionate game & web developer student.</h3>
 <br>
+<br>
+<br>
+<br>
+<br>
 <img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408" width="250" align="right">
 
 <p align="left">
