@@ -58,9 +58,14 @@
 
 <details>
     <summary>🕹️ Game Proyects</summary>
+    <video width"250" controls autoplay>
+      <source src="https://github.com/rubbenmm/rubbenmm/assets/125697479/62dd1d81-d3fb-48f6-8be3-ba619e2adc8c" type="video/mp4">
+    </video>
 
 
-https://github.com/rubbenmm/rubbenmm/assets/125697479/95e4994d-a35c-4db5-8a70-ff3e54d2eae1
+
+
+
 
 
     
