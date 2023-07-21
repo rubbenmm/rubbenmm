@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rubén!!!</h1>
+<h1 align="center">Rubén Martínez</h1>
 <h3 align="center">Game Developer and Web Develompent.</h3>
 
 <br>
