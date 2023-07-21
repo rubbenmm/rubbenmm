@@ -7,11 +7,11 @@
 
 <p align="left">
   
-- 🌱 Currently studying **Web development**
+- 🌱 Currently studying **Web development**.
   
-- 🎓 College degree in **Video game Design and Development**
+- 🎓 College degree in **Video game Design and Development**.
   
-- 📫 How to reach me: **rubbben.mm@gmail.com**
+- 📫 How to reach me: **rubbben.mm@gmail.com**.
 
 </p>
 
