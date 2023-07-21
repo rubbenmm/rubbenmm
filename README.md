@@ -6,6 +6,7 @@
 </p>
 
 <p>
+
 - 🌱 My most recent degree is **Design & Development of Video games**
 
 - 🌱 I’m currently studying **web development**
