@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/a64ac3e7-4f29-4eb6-9fce-3f3e3e6f8cd3">
 <p align="left">
 
-- 🌱 My most recent degree is **Design & Development of Video games**
+- 🎓 My most recent degree is **VIDEOGAME DESIGN & DEVELOPMENT**
 
 - 🌱 I’m currently studying **web development**
 
