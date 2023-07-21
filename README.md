@@ -1,4 +1,4 @@
-<img align= "right" alt="Header" height="100" src="https://i.pinimg.com/originals/b5/8c/42/b58c42d5930fcec1934dfd38674d3a5e.gif">
+<img align= "right" alt="Header" width="100" src="https://i.pinimg.com/originals/b5/8c/42/b58c42d5930fcec1934dfd38674d3a5e.gif">
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A passionate game & web developer student.</h3>
 <img align= "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
