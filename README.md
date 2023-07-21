@@ -58,7 +58,7 @@
 
 <details>
     <summary>🕹️ Game Proyects</summary>
-    <video controls autoplay>
+    <video>
       <source src="https://github.com/rubbenmm/rubbenmm/assets/125697479/62dd1d81-d3fb-48f6-8be3-ba619e2adc8c">
     </video>
 
