@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ruben</h1>
 <h3 align="center">A passionate game & web developer student.</h3>
 
+- 🌱 My most recent degree is **Design & Development of Video games**
+
 - 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **rubbben.mm@gmail.com**
