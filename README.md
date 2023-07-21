@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A passionate game & web developer student.</h3>
-<img align= "right" alt="Coding" width="400" src="Illustration by <a href="https://icons8.com/illustrations/author/259416">Marina Green</a> from <a href="https://icons8.com/illustrations">Ouch!</a>">
+<img align= "right" alt="Coding" width="400" src="https://icons8.com/illustrations/author/259416https://icons8.com/illustrations">
 
 - 🌱 My most recent degree is **Design & Development of Video games**
 
