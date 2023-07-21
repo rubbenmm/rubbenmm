@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A passionate game & web developer student.</h3>
 
-![head]([https://github.com/rubbenmm/rubbenmm/assets/125697479/344565c1-656b-4160-b0da-1c7acf58ba82](https://github.com/rubbenmm/rubbenmm/assets/125697479/714f24d0-e39f-4afc-886c-6379036087c8)
+![head](https://github.com/rubbenmm/rubbenmm/assets/125697479/714f24d0-e39f-4afc-886c-6379036087c8)
 
 
 
