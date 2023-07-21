@@ -52,3 +52,7 @@
 <!-- ILLUSTRATOR -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/illustrator/plain.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p> 
+
+<details>
+<sumary><h3> Personal Projects </h3></sumary>
+  texto texto texto texto texto 
