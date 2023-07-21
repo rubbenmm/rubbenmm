@@ -4,7 +4,7 @@
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/a64ac3e7-4f29-4eb6-9fce-3f3e3e6f8cd3">
-![coworking-young-man-with-tablet](https://github.com/rubbenmm/rubbenmm/assets/125697479/ed41a7bd-8400-493f-882d-90a068c3b2a5)
+<img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/ed41a7bd-8400-493f-882d-90a068c3b2a5">
 
 <p align="left">
   
