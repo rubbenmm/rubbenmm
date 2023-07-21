@@ -2,9 +2,9 @@
 <h3 align="center">A passionate game & web developer student.</h3>
 
 <p align="right">
-
+<img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408" width="1000">
 </p>
-<img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408">
+
 
 - 🌱 My most recent degree is **Design & Development of Video games**
 
