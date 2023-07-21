@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A passionate game & web developer student.</h3>
 
-![head](https://github.com/rubbenmm/rubbenmm/assets/125697479/714f24d0-e39f-4afc-886c-6379036087c8)
+![dazzle-line-man-programmer-writing-code-on-a-laptop (1)](https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408)
+
 
 
 
