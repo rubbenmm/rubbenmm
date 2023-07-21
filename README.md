@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
-<h3 align="center">A passionate game & web developer student.</h3>
+<h3 align="center">Game dev & Web developer student.</h3>
 
 <br>
 <br>
