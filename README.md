@@ -27,12 +27,12 @@
 <p aling= "left"> 
 <!-- C# -->
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="csharp" width="40" height="40"/> </a>
-<!-- PYTHON -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="python" width="40" height="40"/> </a>
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="css3" width="40" height="40"/></a> 
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="html5" width="40" height="40"/> </a>
+<!-- PYTHON -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="python" width="40" height="40"/> </a>
 <!-- JAVA -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/java/original.svg" width="40" height="40"/> </a>
 <!-- PHP -->
