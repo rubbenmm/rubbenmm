@@ -56,4 +56,8 @@
 </p> 
 <hr>
 
-<sumary>hola</sumary>
+<details>
+    <summary>Codigo facilito</summary>
+    aqui van los detalles.
+</details>
+
