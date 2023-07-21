@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubén!!!</h1>
-<h3 align="center">College graduated <b>Game Developer</b> and <b>Web Develompent</b> Student.</h3>
+<h3 align="center">Game Developer and Web Develompent.</h3>
 
 <br>
 
