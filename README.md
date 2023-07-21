@@ -51,8 +51,10 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/photoshop/plain.svg" alt="photoshop" width="40" height="40"/> 
 <!-- ILLUSTRATOR -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/illustrator/plain.svg" alt="illustrator" width="40" height="40"/> </a> 
+<!-- DAVINCI -->
+<a href="https://www.blackmagicdesign.com/es/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/2c64e946-6673-4e93-9bd8-4ee168a1ab15" alt="davinci" width="40" height="40"/> </a> 
 </p> 
 
 <hr>
 
-<details>
+<details><sumary>hola</sumary>
