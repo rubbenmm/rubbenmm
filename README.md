@@ -1,5 +1,5 @@
 <h1 align="left">Rubén Martínez</h1>
-<img align="right" alt="Coding" width="230" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/760af292-611b-456a-a984-516b759e58fa">
+<img align="right" alt="https://github.com/rubbenmm/rubbenmm/assets/125697479/12510755-436b-41b3-a7a7-10b5ac2d462c">
 
 <h3 align="left">Gamedev and Web Develompent.</h3>
 
