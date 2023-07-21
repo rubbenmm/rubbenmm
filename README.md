@@ -58,9 +58,7 @@
 
 <details>
     <summary>🕹️ Game Proyects</summary>
-    <video>
-      <source src="https://github.com/rubbenmm/rubbenmm/assets/125697479/62dd1d81-d3fb-48f6-8be3-ba619e2adc8c">
-    </video>
+    <iframe width="1861" height="665" src="https://www.youtube.com/embed/p3n44qr0Flg" title="Gameplay Trailer CursedSkulls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
