@@ -52,7 +52,8 @@
 <!-- ILLUSTRATOR -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/illustrator/plain.svg" alt="illustrator" width="40" height="40"/> </a> 
 <!-- DAVINCI -->
-<a href="https://www.blackmagicdesign.com/es/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/20c94639-a2ef-4d2c-b2f1-f663d050e5a8" alt="davinci" width="40" height="40"/> </a> 
+<a href="https://www.blackmagicdesign.com/es/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/20c94639-a2ef-4d2c-b2f1-f663d050e5a8" alt="davinci" width="50" height="50"/> </a> 
 </p> 
 <hr>
-<details><sumary>hola</sumary>
+
+<sumary>hola</sumary>
