@@ -36,7 +36,7 @@
 <!-- JAVA -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/java/original.svg" width="40" height="40"/> </a>
 <!-- PHP -->
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/php/plain.svg" alt="php" width="40" height="40"/> </a>
 </p> 
 
 <h3 align="left">Tools:</h3>
