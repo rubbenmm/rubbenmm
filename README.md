@@ -11,7 +11,7 @@
   
 - 🎓 College degree in **Video game Design and Development**
   
-- 📫 How to reach me **rubbben.mm@gmail.com**
+- 📫 How to reach me: **rubbben.mm@gmail.com**
 
 </p>
 
