@@ -57,6 +57,6 @@
 <hr>
 
 <details>
-    <summary> 🕹️ Game Proyects 🕹️ </summary>
+    <summary>🕹️ Game Proyects</summary>
     aqui van los detalles.
 </details>
