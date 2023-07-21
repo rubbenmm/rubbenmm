@@ -57,7 +57,6 @@
 <hr>
 
 <details>
-    <summary>Codigo facilito</summary>
+    <summary> 🕹️ Game Proyects 🕹️ </summary>
     aqui van los detalles.
 </details>
-
