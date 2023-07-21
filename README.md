@@ -3,6 +3,7 @@
 
 ![dazzle-line-man-programmer-writing-code-on-a-laptop (1)](https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408)
 
+(img align="right" alt="cc" width="400" ![dazzle-line-man-programmer-writing-code-on-a-laptop (1)](https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408))
 (img align="right" alt="Coding" width="400" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408")
 
 - 🌱 My most recent degree is **Design & Development of Video games**
