@@ -1,5 +1,5 @@
-<h1 align="center">Rubén Martínez</h1>
-<h3 align="center">Game Developer and Web Develompent.</h3>
+<h1 align="left">Rubén Martínez</h1>
+<h3 align="left">Game Developer and Web Develompent.</h3>
 
 <br>
 
