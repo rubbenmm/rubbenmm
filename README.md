@@ -2,6 +2,7 @@
 <h3 align="center">A passionate game & web developer student.</h3>
 
 <p aling"center>
+  <img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408">
 ![header](https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408)
 </p>
 
