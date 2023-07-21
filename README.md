@@ -6,9 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/a64ac3e7-4f29-4eb6-9fce-3f3e3e6f8cd3">
 
 <p align="left">
+  
 - 🌱 I’m currently studying **Web development**
+  
 - 🎓 College degree in **Video game Design and Development**
+  
 - 📫 How to reach me **rubbben.mm@gmail.com**
+
 </p>
 
 <p align="left">
