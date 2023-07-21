@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A passionate game & web developer student.</h3>
-<img align= "right" alt="Coding" width="400" src="https://icons8.com/illustrations/author/mNCLibjicqSz">Julia K</a> from <a href="https://icons8.com/illustrations">
+<img align= "right" alt="Coding" width="400" src="![dazzle-man-programmer-writing-code-on-a-laptop](https://github.com/rubbenmm/rubbenmm/assets/125697479/9cedc462-7ca0-4122-8e3c-b7b7fad46a20)">
+
 
 - 🌱 My most recent degree is **Design & Development of Video games**
 
