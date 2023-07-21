@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408" width="350" align="right">
+<img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/a64ac3e7-4f29-4eb6-9fce-3f3e3e6f8cd3">
 
 <p align="left">
 
