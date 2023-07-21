@@ -7,7 +7,7 @@
 
 <p align="left">
   
-- 🌱 I’m currently studying **Web development**
+- 🌱 Currently studying **Web development**
   
 - 🎓 College degree in **Video game Design and Development**
   
