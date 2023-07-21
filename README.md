@@ -3,6 +3,7 @@
 
 <br>
 <br>
+![florid-software-developer](https://github.com/rubbenmm/rubbenmm/assets/125697479/71580e65-535e-40cc-94fe-577820c51a6d)
 
 <img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408" width="350" align="right">
 
