@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A passionate game & web developer student.</h3>
 
+<img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408" width="250" align="right">
+
 <p align="left">
 
 - 🌱 My most recent degree is **Design & Development of Video games**
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **rubbben.mm@gmail.com**
 </p>
-<img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408" width="250" align="right">
+
 
 
 <h3 align="left">Connect with me:</h3>
