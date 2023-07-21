@@ -5,14 +5,11 @@
 <img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408">
 </p>
 
-<p>
-
 - 🌱 My most recent degree is **Design & Development of Video games**
 
 - 🌱 I’m currently studying **web development**
 
 - 📫 How to reach me **rubbben.mm@gmail.com**
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
