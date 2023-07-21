@@ -42,7 +42,7 @@
 <h3 align="left">Tools:</h3>
 <p aling= "left">
 <!-- UNITY -->
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/unity/original.svg" alt="unity" width="40" height="40"/>  
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23E9E9E9" alt="unity" width="40" height="40"/>  
 <!-- GIT -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="40" height="40"/>
 <!-- BLENDER -->
