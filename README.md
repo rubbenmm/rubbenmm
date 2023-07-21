@@ -54,5 +54,5 @@
 </p> 
 
 <details>
-<sumary><h3> Personal Projects </h3></sumary>
-  texto texto texto texto texto 
+  <sumary><h3> Personal Projects </h3></sumary>
+    texto texto texto texto texto 
