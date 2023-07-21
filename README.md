@@ -2,7 +2,7 @@
 
 <!-- IMGAEN CHICO CON TABLET -->
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/a64ac3e7-4f29-4eb6-9fce-3f3e3e6f8cd3"> -->
-<img align="right" alt="Coding" width="230" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/12510755-436b-41b3-a7a7-10b5ac2d462c">
+<img align="right" alt="Coding" width="230" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/a8c4d54c-f6c5-4b65-8dcc-31844d8c2cce">
 
 <h3 align="left">Gamedev and Web Develompent.</h3>
 
