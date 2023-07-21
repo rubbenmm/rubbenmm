@@ -16,8 +16,6 @@
   
 - 📫 How to reach me: **rubbben.mm@gmail.com**.
 
-- 🕹️ My Gamedev portfolio: **https://rubbenmm.webflow.io**.
-
 </p>
 
 <p align="left">
