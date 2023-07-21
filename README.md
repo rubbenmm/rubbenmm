@@ -5,7 +5,6 @@
 <br>
 
 <img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/1cb13f7e-6c89-4f87-b086-63204b946408" width="350" align="right">
-<img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/b7a9ed75-a46f-4036-9391-c2f01bb0d720" width="350" align="right">
 
 <p align="left">
 
