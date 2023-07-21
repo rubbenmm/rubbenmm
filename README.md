@@ -58,5 +58,6 @@
 
 <details>
     <summary>🕹️ Game Proyects</summary>
-    aqui van los detalles.
+    <iframe width="1862" height="672" src="https://www.youtube.com/embed/p3n44qr0Flg" title="Gameplay Trailer CursedSkulls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
 </details>
