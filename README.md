@@ -19,8 +19,6 @@
 - 📫 How to reach me: **rubbben.mm@gmail.com**.
 
 - My resume <a href="https://rubben-mm.itch.io/cursed-skulls">here</a>.
-<video width="320" height="240" controls autoplay>
-
 </p>
 
 <p align="left">
