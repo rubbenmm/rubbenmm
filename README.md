@@ -9,7 +9,6 @@
 <br>
 
 <p align="left">
-  
 - 🌱 Currently studying **Web development**.
   
 - 🎓 College degree in **Video game Design and Development**.
@@ -19,9 +18,6 @@
 - 📫 How to reach me: **rubbben.mm@gmail.com**.
 
 - My resume <a href="https://rubben-mm.itch.io/cursed-skulls">here</a>.
-</p>
-
-<p align="left">
 </p>
 
 <br>
