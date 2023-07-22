@@ -59,7 +59,7 @@
 
 <details>
 <summary><h3>👋 About me</h3></summary>
-text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+I'm Rubén and I'm currently an indie videogame developer focused on finishing my degree in web development to dedicate myself professionally to it. I am a very ambitious person thirsty to learn new things every day. I have been fascinated by everything related to computers since I was little and now being able to understand and develop applications and games is what keeps me happy.
 </details>
 
 <details>
