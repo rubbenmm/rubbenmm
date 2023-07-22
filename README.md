@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="230" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/e17ab9ee-0dc5-4ab5-87b1-9b84d97222be">
 </picture>
 <h3 align="left">Gamedev and Web Develompent.</h3>
-
+  <video width="320" height="240" controls autoplay>
+  <source src="https://uploads-ssl.webflow.com/63692a1954fd0d45a80fe82a/636fb245a814287eb08d8756_CursedSkulls_GameplayTrailer-transcode.mp4" type="video/mp4">
 <br>
 
 <p align="left">
@@ -45,8 +46,7 @@
 
 <h3 align="left">Tools:</h3>
 <p aling= "left">
-  <video width="320" height="240" controls>
-  <source src="https://uploads-ssl.webflow.com/63692a1954fd0d45a80fe82a/636fb245a814287eb08d8756_CursedSkulls_GameplayTrailer-transcode.mp4" type="video/mp4">
+
 <!-- UNITY -->
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23E9E9E9" alt="unity" width="40" height="40"/>  
 <!-- GIT -->
