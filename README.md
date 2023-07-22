@@ -18,6 +18,8 @@
 
 - 📫 How to reach me: **rubbben.mm@gmail.com**.
 
+- My resume <a href="https://rubben-mm.itch.io/cursed-skulls">here</a>.
+
 </p>
 
 <p align="left">
