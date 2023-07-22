@@ -56,4 +56,3 @@
 <details>
   <sumary><h3>👀 About me</h3></sumary>
   Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida
-</details>
