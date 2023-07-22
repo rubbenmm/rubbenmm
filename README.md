@@ -16,7 +16,7 @@
   
 - 📫 How to reach me: **rubbben.mm@gmail.com**.
 
-- 🕹️ You can try my demo in <a href=" https://rubben-mm.itch.io/cursed-skulls">here</a>.
+- 🕹️ You can try my demo in <a href="https://rubben-mm.itch.io/cursed-skulls">here</a>.
 
 </p>
 
