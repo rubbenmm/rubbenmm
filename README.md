@@ -65,7 +65,7 @@ text text text text text text text text text text text text text text text text 
 <a href="https://rubben-mm.itch.io/cursed-skulls" target="_blank rel="noreferrer"><img aling="left" width="200" style= "padding-right:10px;" src="https://img.itch.zone/aW1nLzEwNTA0OTQ5LnBuZw==/315x250%23c/Z0JIsH.png"/></a>
 <!-- cowboys vs aliens -->
 <picture>
-<img aling="left width="200" style="padding-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/0cdd312b-e836-4331-a652-8f8462201fdd">
+<a href="https://rubben-mm.itch.io/cursed-skulls" target="_blank rel="noreferrer"><img aling="left" width="200" style= "padding-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/0cdd312b-e836-4331-a652-8f8462201fdd"/></a>
 </picture>
 <img aling="left" width="200" style= "padding-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/0cdd312b-e836-4331-a652-8f8462201fdd"/>
 <!-- farmerapy -->
