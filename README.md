@@ -6,15 +6,8 @@
 <img align="right" alt="Coding" width="230" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/e17ab9ee-0dc5-4ab5-87b1-9b84d97222be">
 </picture>
 <h3 align="left">Gamedev and Web Develompent.</h3>
-<p>
-I'm an indie game developer focused on finishing my degree in web development.
-I am a very ambitious person and I love learning new things every day about everything related to computing.
-My goal right now is to become a quality web developer and make a living from it.
-</p>
 
 <br>
-
-
 
 <p align="left">
   
