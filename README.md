@@ -44,15 +44,14 @@
 
 <h3 align="left">Tools:</h3>
 <p aling= "left">
-
 <!-- UNITY -->
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23E9E9E9" alt="unity" width="40" height="40"/>  
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23E9E9E9" alt="unity" width="40" height="40"/>  </a>
 <!-- GIT -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="40" height="40"/></a>
 <!-- BLENDER -->
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/blender/original.svg" alt="blender" width="40" height="40"/>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/blender/original.svg" alt="blender" width="40" height="40"/></a>
 <!-- PHOTOSHOP -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/photoshop/plain.svg" alt="photoshop" width="40" height="40"/> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/photoshop/plain.svg" alt="photoshop" width="40" height="40"/> </a>
 <!-- ILLUSTRATOR -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/illustrator/plain.svg" alt="illustrator" width="40" height="40"/> </a> 
 <!-- DAVINCI -->
