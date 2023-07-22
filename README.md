@@ -53,7 +53,7 @@
 <!-- DAVINCI -->
 <a href="https://www.blackmagicdesign.com" target="_blank" rel="noreferrer"> <img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/20c94639-a2ef-4d2c-b2f1-f663d050e5a8" alt="davinci" width="42" height="42"/> </a> 
 </p> 
-<hr>
+
 <details>
 <summary><h3>About me</h3></summary>
 text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
