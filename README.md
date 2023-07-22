@@ -13,10 +13,10 @@
 - 🌱 Currently studying **Web development**.
   
 - 🎓 College degree in **Video game Design and Development**.
-  
-- 📫 How to reach me: **rubbben.mm@gmail.com**.
 
 - 🕹️ You can play some of my gamedev work in <a href="https://rubben-mm.itch.io/cursed-skulls">here</a>.
+
+- 📫 How to reach me: **rubbben.mm@gmail.com**.
 
 </p>
 
