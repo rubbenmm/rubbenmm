@@ -60,7 +60,7 @@
 <details>
 <summary><h3>👋 About me</h3></summary>
 I'm ruben, an indie game developer focused on finishing my degree in web development. 
-I am a very ambitious person and I love learning new things every day about the things I like, like in this case everything related to computing. 
+I am a very ambitious person and I love learning new things every day about everything related to computing.
 My goal right now is to become a quality web developer and make a living from it.
 
 </details>
