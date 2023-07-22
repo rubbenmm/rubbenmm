@@ -58,11 +58,8 @@
 </p> 
 
 <details>
-  <summary><h3>
-    <p>
-  Hi, I'm Rubén, an indie game developer focused on finishing my degree in web development.
+  <summary><h3> About me</h3></summary>
+    Hi, I'm Rubén, an indie game developer focused on finishing my degree in web development.
 I am a very ambitious person and I love learning new things every day about everything related to computing.
 My goal right now is to become a quality web developer and make a living from it.
-</p>
-  </h3></summary>
 </details>
