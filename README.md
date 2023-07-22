@@ -1,8 +1,9 @@
 <h1 align="left">Rubén Martínez</h1>
 
 <!-- IMGAEN CHICO CON TABLET -->
+<picture>
 <img align="right" alt="Coding" width="230" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/e17ab9ee-0dc5-4ab5-87b1-9b84d97222be">
-
+</picture>
 <h3 align="left">Gamedev and Web Develompent.</h3>
 
 <br>
