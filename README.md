@@ -61,6 +61,7 @@ text text text text text text text text text text text text text text text text 
 
 <details>
 <summary><h3>💻 Projects</h3></summary>
+<h4>🕹️ Game Projects</h4>
 <!-- cursed skulls -->
 <a href="https://rubben-mm.itch.io/cursed-skulls" target="_blank rel="noreferrer"><img aling="left" width="200" style= "padding-right:10px;" src="https://img.itch.zone/aW1nLzEwNTA0OTQ5LnBuZw==/315x250%23c/Z0JIsH.png"/></a>
 <!-- cowboys vs aliens -->
@@ -71,5 +72,18 @@ text text text text text text text text text text text text text text text text 
 <picture>
 <a href="https://www.youtube.com/watch?v=a8PIwYRxCAk&ab_channel=rubben_mm" target="_blank rel="noreferrer"><img aling="left" width="200" style= "padding-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/29b3378a-c0d6-4d18-bf47-195f83e8fc24"/></a>
 </picture>
+  <hr>
+  <h4>🕹️ Py projects</h4>
+<!-- cursed skulls -->
+<a href="https://rubben-mm.itch.io/cursed-skulls" target="_blank rel="noreferrer"><img aling="left" width="200" style= "padding-right:10px;" src="https://img.itch.zone/aW1nLzEwNTA0OTQ5LnBuZw==/315x250%23c/Z0JIsH.png"/></a>
+<!-- cowboys vs aliens -->
+<picture>
+<a href="https://www.youtube.com/watch?v=KMWLke0cZn8&ab_channel=rubben_mm" target="_blank rel="noreferrer"><img aling="left" width="200" style= "padding-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/0cdd312b-e836-4331-a652-8f8462201fdd"/></a>
+</picture>
+<!-- farmerapy -->
+<picture>
+<a href="https://www.youtube.com/watch?v=a8PIwYRxCAk&ab_channel=rubben_mm" target="_blank rel="noreferrer"><img aling="left" width="200" style= "padding-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/29b3378a-c0d6-4d18-bf47-195f83e8fc24"/></a>
+</picture>
+  <hr>
 </details>
 
