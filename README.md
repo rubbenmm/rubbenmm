@@ -20,8 +20,7 @@
 
 - My resume <a href="https://rubben-mm.itch.io/cursed-skulls">here</a>.
 <video width="320" height="240" controls autoplay>
-  <source src="https://uploads-ssl.webflow.com/63692a1954fd0d45a80fe82a/636fb245a814287eb08d8756_CursedSkulls_GameplayTrailer-transcode.mp4" type="video/mp4">
-  </video>
+
 </p>
 
 <p align="left">
@@ -85,16 +84,12 @@ My goal right now is to become a quality web developer and make a living from it
 </picture>
   <hr>
   <h4>🕹️ Py projects</h4>
-<!-- cursed skulls -->
-<a href="https://rubben-mm.itch.io/cursed-skulls" target="_blank rel="noreferrer"><img aling="left" width="200" style= "padding-right:10px;" src="https://img.itch.zone/aW1nLzEwNTA0OTQ5LnBuZw==/315x250%23c/Z0JIsH.png"/></a>
-<!-- cowboys vs aliens -->
-<picture>
-<a href="https://www.youtube.com/watch?v=KMWLke0cZn8&ab_channel=rubben_mm" target="_blank rel="noreferrer"><img aling="left" width="200" style= "padding-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/0cdd312b-e836-4331-a652-8f8462201fdd"/></a>
-</picture>
-<!-- farmerapy -->
-<picture>
-<a href="https://www.youtube.com/watch?v=a8PIwYRxCAk&ab_channel=rubben_mm" target="_blank rel="noreferrer"><img aling="left" width="200" style= "padding-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/29b3378a-c0d6-4d18-bf47-195f83e8fc24"/></a>
-</picture>
+  <video width="320" height="240" controls>
+  <source src="https://uploads-ssl.webflow.com/63692a1954fd0d45a80fe82a/636fb245a814287eb08d8756_CursedSkulls_GameplayTrailer-transcode.mp4" type="video/mp4">
+  <source src="https://uploads-ssl.webflow.com/63692a1954fd0d45a80fe82a/636fb245a814287eb08d8756_CursedSkulls_GameplayTrailer-transcode.mp4" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+  
   <hr>
 </details>
 
