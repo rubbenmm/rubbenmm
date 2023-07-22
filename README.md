@@ -60,6 +60,11 @@ text text text text text text text text text text text text text text text text 
 </details>
 
 <summary><h3>💻 Projects</h3></summary>
+<!-- cursed skulls -->
 <img aling="left" width="200" style= "paddint-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/b22dd04e-3272-41a7-9880-d7d5974064e6"/>
+<!-- cowboys vs aliens -->
+<img aling="left" width="200" style= "paddint-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/0cdd312b-e836-4331-a652-8f8462201fdd"/>
+<!-- farmerapy -->
+<img aling="left" width="200" style= "paddint-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/29b3378a-c0d6-4d18-bf47-195f83e8fc24"/>
 </details>
 
