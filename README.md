@@ -5,8 +5,7 @@
 <img align="right" alt="Coding" width="230" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/e17ab9ee-0dc5-4ab5-87b1-9b84d97222be">
 </picture>
 <h3 align="left">Gamedev and Web Develompent.</h3>
-  <video width="320" height="240" controls autoplay>
-  <source src="https://uploads-ssl.webflow.com/63692a1954fd0d45a80fe82a/636fb245a814287eb08d8756_CursedSkulls_GameplayTrailer-transcode.mp4" type="video/mp4">
+  
 <br>
 
 <p align="left">
@@ -20,7 +19,9 @@
 - 📫 How to reach me: **rubbben.mm@gmail.com**.
 
 - My resume <a href="https://rubben-mm.itch.io/cursed-skulls">here</a>.
-
+<video width="320" height="240" controls autoplay>
+  <source src="https://uploads-ssl.webflow.com/63692a1954fd0d45a80fe82a/636fb245a814287eb08d8756_CursedSkulls_GameplayTrailer-transcode.mp4" type="video/mp4">
+  </video>
 </p>
 
 <p align="left">
