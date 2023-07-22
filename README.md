@@ -81,9 +81,11 @@ My goal right now is to become a quality web developer and make a living from it
 </picture>
   <hr>
   <h4>🕹️ Py projects</h4>
-  <video width="320" height="240">
-  <source src="https://uploads-ssl.webflow.com/63692a1954fd0d45a80fe82a/636fb245a814287eb08d8756_CursedSkulls_GameplayTrailer-transcode.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/rubbenmm/rubbenmm/assets/125697479/797b6f92-7faf-4e66-8cee-ba9dfdfc68e2
+
+
   
   <hr>
 </details>
