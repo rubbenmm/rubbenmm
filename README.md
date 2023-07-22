@@ -80,14 +80,6 @@ My goal right now is to become a quality web developer and make a living from it
 <a href="https://www.youtube.com/watch?v=a8PIwYRxCAk&ab_channel=rubben_mm" target="_blank rel="noreferrer"><img aling="left" width="200" style= "padding-right:10px;" src="https://github.com/rubbenmm/rubbenmm/assets/125697479/29b3378a-c0d6-4d18-bf47-195f83e8fc24"/></a>
 </picture>
   <hr>
-  <h4>🕹️ Py projects</h4>
-
-
-https://github.com/rubbenmm/rubbenmm/assets/125697479/5c251ac8-8b58-4bb1-b679-6ed99e796e29
-
-
-
-
   
   <hr>
 </details>
