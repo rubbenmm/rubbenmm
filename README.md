@@ -8,11 +8,7 @@
   
 <br>
 
-<p>
-  Hi, I'm Rubén, an indie game developer focused on finishing my degree in web development.
-I am a very ambitious person and I love learning new things every day about everything related to computing.
-My goal right now is to become a quality web developer and make a living from it.
-</p>
+
 
 <p align="left">
   
@@ -60,3 +56,13 @@ My goal right now is to become a quality web developer and make a living from it
 <!-- DAVINCI -->
 <a href="https://www.blackmagicdesign.com" target="_blank" rel="noreferrer"> <img src="https://github.com/rubbenmm/rubbenmm/assets/125697479/20c94639-a2ef-4d2c-b2f1-f663d050e5a8" alt="davinci" width="42" height="42"/> </a> 
 </p> 
+
+<details>
+  <summary><h3>
+    <p>
+  Hi, I'm Rubén, an indie game developer focused on finishing my degree in web development.
+I am a very ambitious person and I love learning new things every day about everything related to computing.
+My goal right now is to become a quality web developer and make a living from it.
+</p>
+  </h3></summary>
+</details>
