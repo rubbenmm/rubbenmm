@@ -55,12 +55,11 @@
 </p> 
 
 <details>
-<summary><h4>👀 About me</h4></summary>
-Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida
+<summary><h3>👀 About me</h3></summary>
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
 </details>
-
 <details>
-<summary><h4>🌱 My objectives</h4></summary>
-Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida Mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida mi vida
+<summary><h3>🌱 My objectives</h3></summary>
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
 </details>
 
