@@ -9,6 +9,7 @@
 <br>
 
 <p align="left">
+  
 - 🌱 Currently studying **Web development**.
   
 - 🎓 College degree in **Video game Design and Development**.
