@@ -84,10 +84,8 @@ My goal right now is to become a quality web developer and make a living from it
 </picture>
   <hr>
   <h4>🕹️ Py projects</h4>
-  <video width="320" height="240" controls>
+  <video width="320" height="240">
   <source src="https://uploads-ssl.webflow.com/63692a1954fd0d45a80fe82a/636fb245a814287eb08d8756_CursedSkulls_GameplayTrailer-transcode.mp4" type="video/mp4">
-  <source src="https://uploads-ssl.webflow.com/63692a1954fd0d45a80fe82a/636fb245a814287eb08d8756_CursedSkulls_GameplayTrailer-transcode.mp4" type="video/ogg">
-Your browser does not support the video tag.
 </video>
   
   <hr>
