@@ -82,14 +82,9 @@ My goal right now is to become a quality web developer and make a living from it
   <hr>
   <h4>🕹️ Py projects</h4>
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/rubbenmm/rubbenmm/assets/125697479/5c251ac8-8b58-4bb1-b679-6ed99e796e29.mp4" type="video/mp4">
-</video>
+
 https://github.com/rubbenmm/rubbenmm/assets/125697479/5c251ac8-8b58-4bb1-b679-6ed99e796e29
 
-<video controls width="250">
-    <source src="https://github.com/rubbenmm/rubbenmm/assets/125697479/5c251ac8-8b58-4bb1-b679-6ed99e796e29">
-</video>
 
 
 
