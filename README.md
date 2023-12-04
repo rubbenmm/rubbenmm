@@ -41,7 +41,7 @@
 <!-- PHP -->
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/php/plain.svg" alt="php" width="40" height="40"/> </a>
 <!-- MYSQL -->
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/php/plain.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/mysql/plain-wordmark.svg" alt="php" width="40" height="40"/> </a>
 </p> 
 
 <h3 align="left">Tools:</h3>
