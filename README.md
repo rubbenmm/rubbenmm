@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">💼 Currently worknig as Software Developer.<br>🎓 Studied Web Development and Design & development of video games & interactive experiences.<br>🎯 Keep learning and getting better.</p>
+<p align="left">💼 Currently worknig as Software Developer.<br>🎓 Studied "Web Development" and "Design & development of video games & interactive experiences".<br>🎯 Keep learning and getting better.</p>
 
 ###
 
