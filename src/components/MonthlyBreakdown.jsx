@@ -84,7 +84,7 @@ export function MonthlyBreakdown({ transactions }) {
   }
 
   return (
-    <div className="bg-card rounded-2xl shadow-sm px-4">
+    <div className="bg-white rounded-2xl shadow-sm px-4">
       {months.map((m) => (
         <MonthRow key={m.month} data={m} />
       ))}

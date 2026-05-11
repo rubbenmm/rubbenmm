@@ -11,7 +11,7 @@ export function TransactionList({ transactions, onEdit, onDelete, emptyMessage =
   }
 
   return (
-    <div className="bg-card rounded-2xl px-4">
+    <div className="bg-white rounded-2xl px-4">
       {transactions.map((t, i) => (
         <TransactionItem
           key={t.id}

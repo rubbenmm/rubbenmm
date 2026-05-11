@@ -49,7 +49,7 @@ export function BottomNav({ onAdd }) {
       style={{ paddingBottom: 'calc(env(safe-area-inset-bottom, 0px) + 12px)' }}
     >
       <div
-        className="max-w-lg mx-auto bg-white/96 backdrop-blur-md rounded-2xl overflow-hidden"
+        className="max-w-lg mx-auto bg-white rounded-2xl overflow-hidden"
         style={{ boxShadow: '0 2px 16px rgba(0,0,0,0.08), 0 0 0 1px rgba(0,0,0,0.05)' }}
       >
         <div className="flex items-stretch">

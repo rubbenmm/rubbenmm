@@ -30,7 +30,7 @@ export function Dashboard({ onEdit, onDelete }) {
     >
       {/* Hero card — clean white, flat */}
       <motion.div
-        className="relative overflow-hidden rounded-3xl bg-card px-5 pt-4 pb-4 animate-fade-in-up flex-shrink-0 cursor-pointer"
+        className="relative overflow-hidden rounded-3xl bg-white px-5 pt-4 pb-4 animate-fade-in-up flex-shrink-0 cursor-pointer"
         style={{ boxShadow: '0 1px 3px rgba(0,0,0,0.06), 0 0 0 1px rgba(0,0,0,0.04)' }}
         onClick={() => navigate('/history')}
         whileTap={{ scale: 0.985 }}
@@ -42,7 +42,7 @@ export function Dashboard({ onEdit, onDelete }) {
         <div className="flex items-center justify-between mb-3" onClick={(e) => e.stopPropagation()}>
           <motion.button
             onClick={() => setSelectedMonth(prevMonth(selectedMonth))}
-            className="w-7 h-7 rounded-full bg-surface flex items-center justify-center text-label"
+            className="w-7 h-7 rounded-full bg-white flex items-center justify-center text-label"
             whileTap={{ scale: 0.85 }}
             transition={{ type: 'spring', stiffness: 500, damping: 22 }}
           >
@@ -54,7 +54,7 @@ export function Dashboard({ onEdit, onDelete }) {
           <motion.button
             onClick={() => setSelectedMonth(nextMonth(selectedMonth))}
             disabled={isCurrentMonth}
-            className="w-7 h-7 rounded-full bg-surface flex items-center justify-center text-label disabled:opacity-25"
+            className="w-7 h-7 rounded-full bg-white flex items-center justify-center text-label disabled:opacity-25"
             whileTap={{ scale: 0.85 }}
             transition={{ type: 'spring', stiffness: 500, damping: 22 }}
           >
@@ -73,11 +73,11 @@ export function Dashboard({ onEdit, onDelete }) {
 
         {/* Income / Expense sub-cards */}
         <div className="flex gap-2 mb-3">
-          <div className="flex-1 bg-surface rounded-xl px-3 py-2.5">
+          <div className="flex-1 bg-white rounded-xl px-3 py-2.5">
             <p className="text-[9px] text-muted uppercase tracking-widest mb-0.5">{t('income')}</p>
             <p className="text-sm font-bold tabular-nums" style={{ color: '#3D9970' }}>{formatCurrency(monthly.income)}</p>
           </div>
-          <div className="flex-1 bg-surface rounded-xl px-3 py-2.5">
+          <div className="flex-1 bg-white rounded-xl px-3 py-2.5">
             <p className="text-[9px] text-muted uppercase tracking-widest mb-0.5">{t('expenses')}</p>
             <p className="text-sm font-bold tabular-nums" style={{ color: '#C0392B' }}>{formatCurrency(monthly.expense)}</p>
           </div>
@@ -94,7 +94,7 @@ export function Dashboard({ onEdit, onDelete }) {
       </motion.div>
 
       {/* Spending by Category */}
-      <div className="bg-card rounded-2xl p-4 flex flex-col flex-shrink-0 animate-fade-in-up" style={{ animationDelay: '60ms', boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
+      <div className="bg-white rounded-2xl p-4 flex flex-col flex-shrink-0 animate-fade-in-up" style={{ animationDelay: '60ms', boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
         <p className="text-[10px] font-semibold text-muted uppercase tracking-widest mb-3 flex-shrink-0">{t('spendingByCategory')}</p>
         {loading
           ? <div className="flex-1 flex items-center justify-center text-muted text-sm">{t('loading')}</div>
@@ -103,7 +103,7 @@ export function Dashboard({ onEdit, onDelete }) {
       </div>
 
       {/* Daily Activity */}
-      <div className="bg-card rounded-2xl p-4 flex flex-col flex-1 min-h-0 animate-fade-in-up" style={{ animationDelay: '120ms', boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
+      <div className="bg-white rounded-2xl p-4 flex flex-col flex-1 min-h-0 animate-fade-in-up" style={{ animationDelay: '120ms', boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
         <p className="text-[10px] font-semibold text-muted uppercase tracking-widest mb-3 flex-shrink-0">{t('dailyActivity')}</p>
         {loading
           ? <div className="flex-1 flex items-center justify-center text-muted text-sm">{t('loading')}</div>

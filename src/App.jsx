@@ -118,7 +118,7 @@ function App() {
   return (
     <HashRouter>
       <LangProvider>
-        <div className="h-screen bg-surface font-sans flex flex-col max-w-lg mx-auto relative overflow-hidden">
+        <div className="h-screen bg-page font-sans flex flex-col max-w-lg mx-auto relative overflow-hidden">
           <AnimatePresence>
             {splashing && <SplashScreen onDone={() => setSplashing(false)} />}
           </AnimatePresence>

@@ -11,8 +11,9 @@ export default {
       },
       colors: {
         accent:  '#515151',
-        surface: '#F7F4F0',
-        card:    '#FDFCFA',
+        page:    'var(--page-bg)',
+        surface: '#ffffff',
+        card:    '#ffffff',
         muted:   '#9A9A9A',
         border:  '#E5E5E5',
         label:   '#515151',

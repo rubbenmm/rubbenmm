@@ -5,7 +5,7 @@ export function SummaryCard({ label, value, accent, className }) {
     <div
       className={cn(
         'rounded-2xl px-5 py-4 flex flex-col gap-1 shadow-sm',
-        accent ? 'text-white' : 'bg-card text-label',
+        accent ? 'text-white' : 'bg-white text-label',
         className
       )}
       style={accent ? { backgroundColor: accent } : {}}

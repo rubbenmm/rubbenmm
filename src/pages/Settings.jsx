@@ -18,9 +18,9 @@ export function Settings() {
   ]
 
   return (
-    <div className="bg-surface h-full flex flex-col overflow-y-auto scrollbar-none">
+    <div className="bg-page h-full flex flex-col overflow-y-auto scrollbar-none">
       {/* Header */}
-      <div className="sticky top-0 z-10 bg-surface/90 backdrop-blur-md px-4 pb-4 border-b border-border" style={{ paddingTop: 'calc(env(safe-area-inset-top, 0px) + 48px)' }}>
+      <div className="sticky top-0 z-10 bg-page px-4 pb-4 border-b border-border" style={{ paddingTop: 'calc(env(safe-area-inset-top, 0px) + 48px)' }}>
         <h1 className="text-lg font-bold text-label">{t('settingsTitle')}</h1>
       </div>
 
@@ -28,7 +28,7 @@ export function Settings() {
         {/* Language */}
         <section className="animate-fade-in-up" style={{ animationDelay: '0ms' }}>
           <p className="text-[10px] font-bold text-muted uppercase tracking-widest mb-3">{t('languageSection')}</p>
-          <div className="bg-card rounded-2xl overflow-hidden" style={{ boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
+          <div className="bg-white rounded-2xl overflow-hidden" style={{ boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
             {languages.map((opt, i) => (
               <motion.button
                 key={opt.code}
@@ -53,7 +53,7 @@ export function Settings() {
         {/* About */}
         <section className="animate-fade-in-up" style={{ animationDelay: '80ms' }}>
           <p className="text-[10px] font-bold text-muted uppercase tracking-widest mb-3">{t('aboutSection')}</p>
-          <div className="bg-card rounded-2xl overflow-hidden" style={{ boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
+          <div className="bg-white rounded-2xl overflow-hidden" style={{ boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
             <div className="flex items-center justify-between px-4 py-4">
               <span className="text-sm font-medium text-label">Walletly</span>
               <span className="text-sm text-muted">{t('appVersion')} 1.0</span>
@@ -64,7 +64,7 @@ export function Settings() {
         {/* Danger Zone */}
         <section className="animate-fade-in-up" style={{ animationDelay: '160ms' }}>
           <p className="text-[10px] font-bold text-muted uppercase tracking-widest mb-3">{t('dangerZone')}</p>
-          <div className="bg-card rounded-2xl overflow-hidden" style={{ boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
+          <div className="bg-white rounded-2xl overflow-hidden" style={{ boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
             <motion.button
               onClick={handleReset}
               className="w-full flex flex-col items-start px-4 py-4"

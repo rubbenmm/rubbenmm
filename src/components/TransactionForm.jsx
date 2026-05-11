@@ -7,7 +7,7 @@ import { useLang } from '@/lib/i18n'
 
 const DEFAULT = { type: 'expense', amount: '', category: 'food', note: '', date: todayISO() }
 
-const inputCls = 'w-full bg-surface border border-border rounded-xl px-4 py-3 text-label text-sm placeholder-muted focus:outline-none focus:ring-2 focus:ring-[#515151]/15 transition'
+const inputCls = 'w-full bg-white border border-border rounded-xl px-4 py-3 text-label text-sm placeholder-muted focus:outline-none focus:ring-2 focus:ring-[#515151]/15 transition'
 
 export function TransactionForm({ open, onClose, onSave, initial }) {
   const { t } = useLang()
@@ -50,7 +50,7 @@ export function TransactionForm({ open, onClose, onSave, initial }) {
 
           {/* Sheet */}
           <motion.div
-            className="relative w-full sm:max-w-md bg-card rounded-t-3xl sm:rounded-3xl shadow-xl p-6"
+            className="relative w-full sm:max-w-md bg-white rounded-t-3xl sm:rounded-3xl shadow-xl p-6"
             initial={{ y: '100%', opacity: 0.5 }}
             animate={{ y: 0, opacity: 1 }}
             exit={{ y: '100%', opacity: 0 }}
@@ -76,7 +76,7 @@ export function TransactionForm({ open, onClose, onSave, initial }) {
 
             <form onSubmit={handleSubmit} className="flex flex-col gap-5">
               {/* Type toggle */}
-              <div className="flex rounded-xl overflow-hidden border border-border p-1 gap-1 bg-surface">
+              <div className="flex rounded-xl overflow-hidden border border-border p-1 gap-1 bg-white">
                 {['expense', 'income'].map((type) => (
                   <motion.button
                     key={type}

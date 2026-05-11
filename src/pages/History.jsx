@@ -56,9 +56,9 @@ export function History() {
     activeData?.income > 0 ? Math.round((activeBalance / activeData.income) * 100) : null
 
   return (
-    <div className="bg-surface h-full flex flex-col overflow-y-auto scrollbar-none">
+    <div className="bg-page h-full flex flex-col overflow-y-auto scrollbar-none">
       {/* Header */}
-      <div className="sticky top-0 z-10 bg-surface/90 backdrop-blur-md px-4 pb-4 border-b border-border" style={{ paddingTop: 'calc(env(safe-area-inset-top, 0px) + 48px)' }}>
+      <div className="sticky top-0 z-10 bg-page px-4 pb-4 border-b border-border" style={{ paddingTop: 'calc(env(safe-area-inset-top, 0px) + 48px)' }}>
         <h1 className="text-lg font-bold text-label">{t('monthlyHistory')}</h1>
       </div>
 
@@ -66,7 +66,7 @@ export function History() {
         {loading && (
           <div className="flex flex-col gap-6">
             {[1, 2].map((i) => (
-              <div key={i} className="h-44 bg-card rounded-2xl animate-pulse" />
+              <div key={i} className="h-44 bg-white rounded-2xl animate-pulse" />
             ))}
           </div>
         )}
@@ -103,7 +103,7 @@ export function History() {
                     disabled={isDisabled}
                     onClick={() => handleSetActiveMonth(key)}
                     style={{ animationDelay: `${i * 30}ms` }}
-                    className={`animate-card-enter flex flex-col items-center justify-center gap-1.5 py-4 rounded-2xl bg-card ${
+                    className={`animate-card-enter flex flex-col items-center justify-center gap-1.5 py-4 rounded-2xl bg-white ${
                       isDisabled ? 'opacity-30 cursor-default' : ''
                     }`}
                     whileTap={isDisabled ? {} : { scale: 0.94 }}
@@ -144,7 +144,7 @@ export function History() {
               onClick={() => setActiveMonth(null)}
             />
             <motion.div
-              className="relative w-full sm:max-w-md bg-card rounded-t-3xl sm:rounded-3xl shadow-xl p-6"
+              className="relative w-full sm:max-w-md bg-white rounded-t-3xl sm:rounded-3xl shadow-xl p-6"
               initial={{ y: '100%', opacity: 0.5 }}
               animate={{ y: 0, opacity: 1 }}
               exit={{ y: '100%', opacity: 0 }}
@@ -180,7 +180,7 @@ export function History() {
                 <motion.button
                   onClick={() => setTxTypeFilter(txTypeFilter === 'income' ? '' : 'income')}
                   className="flex-1 rounded-2xl px-4 py-3 text-left transition-colors"
-                  style={{ backgroundColor: txTypeFilter === 'income' ? '#515151' : '#F7F4F0' }}
+                  style={{ backgroundColor: txTypeFilter === 'income' ? '#515151' : '#ffffff' }}
                   whileTap={{ scale: 0.96 }}
                   transition={{ type: 'spring', stiffness: 500, damping: 26 }}
                 >
@@ -190,7 +190,7 @@ export function History() {
                 <motion.button
                   onClick={() => setTxTypeFilter(txTypeFilter === 'expense' ? '' : 'expense')}
                   className="flex-1 rounded-2xl px-4 py-3 text-left transition-colors"
-                  style={{ backgroundColor: txTypeFilter === 'expense' ? '#515151' : '#F7F4F0' }}
+                  style={{ backgroundColor: txTypeFilter === 'expense' ? '#515151' : '#ffffff' }}
                   whileTap={{ scale: 0.96 }}
                   transition={{ type: 'spring', stiffness: 500, damping: 26 }}
                 >
@@ -204,7 +204,7 @@ export function History() {
                 <span className="text-xs text-muted">{activeData.count} {t('txUnit')}</span>
                 {activeSavingsRate !== null && (
                   <span
-                    className="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-surface text-label"
+                    className="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-white text-label"
                     style={{ opacity: activeBalance >= 0 ? 1 : 0.55 }}
                   >
                     {activeSavingsRate >= 0 ? '+' : ''}{activeSavingsRate}%
@@ -215,7 +215,7 @@ export function History() {
               {/* Spending bar */}
               {activeData.income > 0 && (
                 <div className="mt-4">
-                  <div className="h-1.5 rounded-full bg-surface overflow-hidden">
+                  <div className="h-1.5 rounded-full bg-white overflow-hidden">
                     <div
                       className="h-full rounded-full transition-all duration-700"
                       style={{
@@ -244,7 +244,7 @@ export function History() {
                         const isIncome = tx.type === 'income'
                         return (
                           <div key={tx.id} className="flex items-center gap-3 py-2.5 border-b border-border last:border-0">
-                            <div className="w-8 h-8 rounded-xl flex items-center justify-center text-base flex-shrink-0 bg-surface">
+                            <div className="w-8 h-8 rounded-xl flex items-center justify-center text-base flex-shrink-0 bg-white">
                               <img
                                 src={meta.icon}
                                 alt=""

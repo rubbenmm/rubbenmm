@@ -47,12 +47,12 @@ export function Transactions({ onEdit, onDelete }) {
   const clearFilters = () => { setType(''); setCategory(''); setSearch(''); setDateFrom(defaultRange.from); setDateTo(defaultRange.to) }
   const hasFilters = type || category || search || dateFrom !== defaultRange.from || dateTo !== defaultRange.to
 
-  const inputCls = 'w-full bg-card border border-border rounded-xl px-3 py-2 text-sm text-label focus:outline-none focus:ring-2 focus:ring-[#515151]/15 transition'
+  const inputCls = 'w-full bg-white border border-border rounded-xl px-3 py-2 text-sm text-label focus:outline-none focus:ring-2 focus:ring-[#515151]/15 transition'
 
   return (
-    <div className="flex flex-col h-full">
+    <div className="flex flex-col h-full bg-page">
       {/* Filters */}
-      <div className="flex flex-col gap-2.5 px-4 pt-5 pb-3 flex-shrink-0 bg-surface">
+      <div className="flex flex-col gap-2.5 px-4 pt-5 pb-3 flex-shrink-0 bg-page">
         {/* Search */}
         <div className="relative">
           <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-muted" />
@@ -139,7 +139,7 @@ export function Transactions({ onEdit, onDelete }) {
       {/* Scrollable list */}
       <div className="flex-1 min-h-0 overflow-y-auto scrollbar-none px-4 pt-3 pb-16">
         {loading ? (
-          <div className="bg-card rounded-2xl h-40 animate-pulse" />
+          <div className="bg-white rounded-2xl h-40 animate-pulse" />
         ) : (
           <TransactionList
             transactions={transactions}

@@ -180,7 +180,7 @@ export function DailyHeatmap({ transactions, selectedMonth }) {
               onClick={() => setSelectedDay(null)}
             />
             <motion.div
-              className="fixed left-0 right-0 bottom-0 z-50 bg-card rounded-t-2xl"
+              className="fixed left-0 right-0 bottom-0 z-50 bg-white rounded-t-2xl"
               style={{ maxHeight: '70vh', display: 'flex', flexDirection: 'column', paddingBottom: 'env(safe-area-inset-bottom, 0px)' }}
               initial={{ y: '100%' }}
               animate={{ y: 0 }}
@@ -204,7 +204,7 @@ export function DailyHeatmap({ transactions, selectedMonth }) {
                 </div>
                 <motion.button
                   onClick={() => setSelectedDay(null)}
-                  className="w-8 h-8 rounded-full bg-surface flex items-center justify-center text-muted"
+                  className="w-8 h-8 rounded-full bg-white flex items-center justify-center text-muted"
                   whileTap={{ scale: 0.88 }}
                   transition={{ type: 'spring', stiffness: 500, damping: 25 }}
                 >
@@ -220,7 +220,7 @@ export function DailyHeatmap({ transactions, selectedMonth }) {
                     const cat = ALL_CATS.find(c => c.value === tx.category)
                     return (
                       <div key={tx.id} className="flex items-center gap-3 py-2.5" style={{ borderBottom: '1px solid #F5F5F5' }}>
-                        <div className="w-8 h-8 rounded-xl bg-surface flex items-center justify-center flex-shrink-0">
+                        <div className="w-8 h-8 rounded-xl bg-white flex items-center justify-center flex-shrink-0">
                           {cat?.icon && <img src={cat.icon} alt="" className="w-4 h-4" style={{ filter: 'grayscale(1)', opacity: 0.5 }} />}
                         </div>
                         <div className="flex-1 min-w-0">
